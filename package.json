@@ -1,0 +1,20 @@
+{
+  "name": "platzi-wordle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.5.7",
+    "webpack": "^5.74.0",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}
